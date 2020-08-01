@@ -1,9 +1,11 @@
-## Welcome here!
+## Welcome!
 
 My name is Mateusz and here I want to share with you results from my projects.
 
 The portfolio contains small and big DIY projects, some programs that I created, projects from my time at the univeristy and that sort of stuff. I tried to include some details about each of them. Projects are in chronological order from the newest to the oldest. 
 
+
+![Image](images/modul_mocy_bigger.png)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
