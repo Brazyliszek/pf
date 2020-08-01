@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome here!
 
-You can use the [editor on GitHub](https://github.com/Brazyliszek/pf/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Mateusz and here I want to share with you results from my projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The portfolio contains small and big DIY projects, some programs that I created, projects from my time at the univeristy and that sort of stuff. I tried to include some details about each of them. Projects are in chronological order from the newest to the oldest. 
 
 ### Markdown
 
