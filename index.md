@@ -4,21 +4,23 @@ My name is Mateusz and here I want to share with you results from my projects.
 
 The portfolio contains small and big DIY projects, some programs that I created, projects from my time at the univeristy and that sort of stuff. I tried to include some details about each of them. Projects are in chronological order from the newest to the oldest. 
 
-<p float="center">
-  <img src="images/act_all.jpg" width="200" />
-  <img src="images/act_ltspice.png" width="200" />
-</p>
+<center>
+  <p float="center">
+    <a href="https://brazyliszek.github.io/pf/images/act_all.jpg"><img src="images/act_all.jpg" width="300"/></a>
+    <img src="images/act_ltspice.png" width="300" />
+  </p>
 
 
-<p float="center">
-  <img src="images/act_power.png" width="200" />
-  <img src="images/act_driver.jpg" width="200" />
-</p>
+  <p float="center">
+    <img src="images/act_power.png" width="300" />
+    <img src="images/act_driver.jpg" width="300" />
+  </p>
 
-<p float="center">
-  <img src="images/act_schematic.jpg" width="200" />
-  <img src="images/act_chart.png" width="200" />
-</p>
+  <p float="center">
+    <img src="images/act_schematic.jpg" width="300" />
+    <img src="images/act_chart.png" width="300" />
+  </p>
+</center>
 
 ### Markdown
 
