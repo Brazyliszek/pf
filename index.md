@@ -1,27 +1,29 @@
 ## Welcome!
 
-My name is Mateusz and here I want to share with you results from my projects.
+My name is Mateusz and here I want to share with you results from my projects I've done hobbystically throughout the years
 
 The portfolio contains small and big DIY projects, some programs that I created, projects from my time at the univeristy and that sort of stuff. I tried to include some details about each of them. Projects are in chronological order from the newest to the oldest. 
 
+### PWM rectifier
+
+#PowerElectronics #Matlab #Simulink #LTSpice
+
 <center>
-  <p float="center">
+  <p float="left">
     <a href="https://brazyliszek.github.io/pf/images/act_all.jpg"><img src="images/act_all.jpg" width="300"/></a>
-    <img src="images/act_ltspice.png" width="300" />
+    <a href="https://brazyliszek.github.io/pf/images/act_ltspice.png"><img src="images/act_ltspice.png" width="300"/></a>
   </p>
 
-
-  <p float="center">
-    <img src="images/act_power.png" width="300" />
-    <img src="images/act_driver.jpg" width="300" />
+  <p float="left">
+    <a href="https://brazyliszek.github.io/pf/images/act_power.png"><img src="images/act_power.png" width="300"/></a>
+    <a href="https://brazyliszek.github.io/pf/images/act_driver.jpg"><img src="images/act_driver.jpg" width="300"/></a>
   </p>
 
-  <p float="center">
-    <img src="images/act_schematic.jpg" width="300" />
-    <img src="images/act_chart.png" width="300" />
+  <p float="left">
+    <a href="https://brazyliszek.github.io/pf/images/act_schematic.jpg"><img src="images/act_schematic.jpg" width="300"/></a>
+    <a href="https://brazyliszek.github.io/pf/images/act_chart.png"><img src="images/act_chart.png" width="300"/></a>
   </p>
 </center>
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
