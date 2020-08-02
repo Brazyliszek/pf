@@ -7,9 +7,6 @@ The portfolio contains small and big DIY projects, some programs that I created,
 ### PWM rectifier
 
 #PowerElectronics #Matlab #Simulink #LTSpice
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
 <center>
   <p float="left">
     <a href="https://brazyliszek.github.io/pf/images/act_all.jpg"><img src="images/act_all.jpg" width="300"/></a>
@@ -26,6 +23,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     <a href="https://brazyliszek.github.io/pf/images/act_chart.png"><img src="images/act_chart.png" width="300"/></a>
   </p>
 </center>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 
 
