@@ -26,7 +26,7 @@ The portfolio contains small and big DIY projects, some programs that I created,
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 ### Computer desk DIY
-#diy #woodworking #desk #programming #workstation
+#diy #woodworking #desk #workstation
 
 <center>
   <p float="left">
@@ -38,5 +38,79 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     <a href="https://brazyliszek.github.io/pf/images/desk3.jpg"><img src="images/desk3.jpg" width="300"/></a>
   </p>
 
+</center>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+
+### Face features recognition
+#Matlab #ImageProcessingToolbox
+
+<center>
+  <p float="left">
+    <a href="https://brazyliszek.github.io/pf/images/face1.jpg"><img src="images/face1.jpg" width="300"/></a>
+  </p>
+</center>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+
+### Series resonant inverter
+#PowerElectronics #LTSpice #Resonance #Inverter #Eagle 
+
+<center>
+  <p float="left">
+    <a href="https://brazyliszek.github.io/pf/images/res_all.jpg"><img src="images/res_all.jpg" width="300"/></a>
+    <a href="https://brazyliszek.github.io/pf/images/res_eagle.jpg"><img src="images/res_eagle.jpg" width="300"/></a>
+  </p>
+
+  <p float="left">
+    <a href="https://brazyliszek.github.io/pf/images/res_cp.jpg"><img src="images/res_cp.jpg" width="300"/></a>
+    <a href="https://brazyliszek.github.io/pf/images/res_out.jpg"><img src="images/res_out.jpg" width="300"/></a>
+  </p>
+</center>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+
+### PSIM project - PWM rectifier + DFOC + PMSM + active load
+#PowerElectronics #PSIM #SchoolProjects
+<center>
+  <p float="left">
+    <a href="https://brazyliszek.github.io/pf/images/psim_all.png"><img src="images/psim_all.png" width="300"/></a>
+    <a href="https://brazyliszek.github.io/pf/images/psim_act.png"><img src="images/psim_act.png" width="300"/></a>
+  </p>
+
+  <p float="left">
+    <a href="https://brazyliszek.github.io/pf/images/psim_dfoc.jpg"><img src="images/psim_dfoc.jpg" width="300"/></a>
+    <a href="https://brazyliszek.github.io/pf/images/adaptivePI.jpg"><img src="images/adaptivePI.jpg" width="300"/></a>
+  </p>
+</center>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+
+### Game bots
+#programming #autohotkey #bot
+
+<center>
+  <p float="left">
+    <a href="https://brazyliszek.github.io/pf/images/bot1.jpg"><img src="images/bot1.jpg" width="300"/></a>
+    <a href="https://brazyliszek.github.io/pf/images/bot2.jpg"><img src="images/bot2jpg" width="300"/></a>
+  </p>
+
+  <p float="left
+    <a href="https://brazyliszek.github.io/pf/images/bot3.jpg"><img src="images/bot3jpg" width="300"/></a>
+    <a href="https://brazyliszek.github.io/pf/images/bot4.jpg"><img src="images/bot4jpg" width="300"/></a>
+  </p>
+
+
+</center>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+
+### Control for pump station
+#EE #SoftStart #SEE Electrical ShoolProjects
+
+<center>
+  <p float="left">
+    <a href="https://brazyliszek.github.io/pf/images/pun1.jpg"><img src="images/pun1.jpg" width="300"/></a>
+  </p>
 </center>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
