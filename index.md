@@ -5,7 +5,7 @@ My name is Mateusz and here I want to share with you results from my projects I'
 The portfolio contains small and big DIY projects, some programs that I created, projects from my time at the univeristy and that sort of stuff. I tried to include some details about each of them. 
 
 ### PWM rectifier
-#PowerElectronics #Matlab #Simulink #LTSpice
+#PowerElectronics #Matlab #Simulink #Simscape #LTSpice
 
 <center>
   <p float="left">
@@ -23,7 +23,7 @@ The portfolio contains small and big DIY projects, some programs that I created,
     <a href="https://brazyliszek.github.io/pf/images/act_chart.png"><img src="images/act_chart.png" width="300"/></a>
   </p>
 </center>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Praca magisterska: "Analiza pracy tranzystorowych prostownikow aktywnych", na zakończenie 5 letnich studiów na kierunku Automatyka i robotyka. W pracy opracowałem model matematyczny jednofazowego prostownika pwm, następnie w Simulinku, przy użyciu, Simscape Electrical Toolbox opracowałem model symulacyjny. Jako, że miałem trochę części z poprzednich projektów (tranzystory, kondensatory, transformatory) postanowiłem zbudować układ fizyczny, który można objerzeć na zdjęciach powyżej.
 
 ### Computer desk DIY
 #diy #woodworking #desk #workstation
@@ -39,7 +39,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   </p>
 
 </center>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+W programowaniu czy symulowaniu ważne jest, żeby mieć podgląd na program, gui, wykresy, może jakiś otwarty pdf z teorią. A single screen is not enough for all of this. Rok przed terminem obrony zdałem sobie sprawę, że nie mam warunków by wygodnie przygotować pracę. Miałem jeden monitor, biurko, może nie najmniejsze, ale poza klawiatura i myszką ledwo się mieściła jedna książka. Najpierw kupiłem drugi monitor i zamocowałem oba na trzech kolumnach. Prowizorycznie i tanio. Then I realized I sit to close to the screens and jest za mało miejsca na biurku i za ciemno. Dodałem wysuwany blat, lampę LED 60cm, zorganizowałem luźne kable z tyłu. Na koniec zabecjowałem wszystko i wygląda według mnie całkiem przyzwoicie. 
 
 
 ### Face features recognition
@@ -50,7 +50,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     <a href="https://brazyliszek.github.io/pf/images/face1.jpg"><img src="images/face1.jpg" width="300"/></a>
   </p>
 </center>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Nudziło mi się i chciałem się pobwaić trochę w rozpoznwanie twarzy, bez specjalnego celu. Zawsze lubiłem pracę z matlabem i przetwarzaniem obrazów. Image Processing Toolbox zapewnia wszystkie podstawowe funkcje potrzebne do takich zabaw.
 
 
 ### Series resonant inverter
@@ -64,10 +64,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
   <p float="left">
     <a href="https://brazyliszek.github.io/pf/images/res_cp.jpg"><img src="images/res_cp.jpg" width="300"/></a>
-    <a href="https://brazyliszek.github.io/pf/images/res_out.jpg"><img src="images/res_out.jpg" width="300"/></a>
+    <a href="https://brazyliszek.github.io/pf/images/res_out.jpg"><img src="images/res_out.jpg" height="300"/></a>
   </p>
 </center>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Tutaj z kolei przekształtnik jaki wykonałem na potrzeby pracy inżynierskiej (tj. pracy, którą przygotowujemy po 3.5 roku na uczelni, w celu otrzymania promocji na inżyniera). Zdjęcia przedstawiają falownik rezonansowy szeregowy. To był pierwszy układ energoelektronicznu, który zbudowałem. Najpierw wykonałem symulację układu w LT Spice, a następnie na podstawie symulacji opracowałem układ fizyczny. Patrząc na to z perspektywy czasu jest tam sporo rzeczy, które bym dzisiaj zmienił, lub zrobił zupełnie inaczej, ale to chyba typowe. Mimo wszystko układ działał i z pewnością wiele dzięki niemu się nauczyłem.
 
 
 ### PSIM project - PWM rectifier + DFOC + PMSM + active load
@@ -83,7 +83,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     <a href="https://brazyliszek.github.io/pf/images/adaptivePI.jpg"><img src="images/adaptivePI.jpg" width="300"/></a>
   </p>
 </center>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Na 9 semestrze mieliśmy kurs projektowy "Komputerowo wspomagane modelowanie i projektowanie układów sterowania". Wspólnie z moim kolegą ze studiów Tomkiem postanowiliśmy opracować w PSIMie model całego układu energoelektronicznego z częścią power electronics i mechaniczną. Mamy układ zasilany z sieci jednofazowej, do której dołączony jest prostownik aktywny. Prostownik zasila falownik wektorowy, który steruje pracą silnika PMSM. Silnik PMSM obciążony jest aktywnie, a więc w niektórych trybach pracy może zwracać energię do sieci. Z ciekawyszych układów zastosowaliśmy regulator PI adaptacyjny z układem wind-up. 
 
 
 ### Game bots
@@ -102,7 +102,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 </center>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Swego czasu grałem w różne gry. 
 
 
 ### Control for pump station
