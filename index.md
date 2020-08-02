@@ -71,7 +71,7 @@ Tutaj z kolei przekształtnik jaki wykonałem na potrzeby pracy inżynierskiej (
 
 
 ### PSIM project - PWM rectifier + DFOC + PMSM + active load
-#PowerElectronics #PSIM #SchoolProjects
+#PowerElectronics #PSIM #UniProjects
 <center>
   <p float="left">
     <a href="https://brazyliszek.github.io/pf/images/psim_all.png"><img src="images/psim_all.png" width="300"/></a>
@@ -106,7 +106,7 @@ Swego czasu grałem w różne gry, które często polegały na wykonywaniu monot
 
 
 ### Control for pump station
-#EE #SoftStart #SEE Electrical ShoolProjects
+#EE #SoftStart #SEE Electrical #UniProjects
 
 <center>
   <p float="left">
