@@ -92,12 +92,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <center>
   <p float="left">
     <a href="https://brazyliszek.github.io/pf/images/bot1.jpg"><img src="images/bot1.jpg" width="300"/></a>
-    <a href="https://brazyliszek.github.io/pf/images/bot2.jpg"><img src="images/bot2jpg" width="300"/></a>
+    <a href="https://brazyliszek.github.io/pf/images/bot2.jpg"><img src="images/bot2.jpg" width="300"/></a>
   </p>
 
   <p float="left
-    <a href="https://brazyliszek.github.io/pf/images/bot3.jpg"><img src="images/bot3jpg" width="300"/></a>
-    <a href="https://brazyliszek.github.io/pf/images/bot4.jpg"><img src="images/bot4jpg" width="300"/></a>
+    <a href="https://brazyliszek.github.io/pf/images/bot3.jpg"><img src="images/bot3.jpg" width="300"/></a>
+    <a href="https://brazyliszek.github.io/pf/images/bot4.jpg"><img src="images/bot4.jpg" width="300"/></a>
   </p>
 
 
