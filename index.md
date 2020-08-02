@@ -6,7 +6,7 @@ The portfolio contains small and big DIY projects, some programs that I created,
 
 <p float="left">
   <img src="images/act_all.jpg" width="100" />
-  <img src="images/act_ltspice.jpg" width="100" />
+  <img src="images/act_ltspice.png" width="100" />
 </p>
 
 ![Image](images/modul_mocy_bigger.png)
