@@ -30,12 +30,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <center>
   <p float="left">
-    <a href="https://brazyliszek.github.io/pf/images/desk1.jpg"><img src="images/desk1.jpg" width="300"/></a>
-    <a href="https://brazyliszek.github.io/pf/images/desk2.jpg"><img src="images/desk2.jpg" width="300"/></a>
+    <a href="https://brazyliszek.github.io/pf/images/desk1.jpg"><img src="images/desk1.jpg" height="300"/></a>
+    <a href="https://brazyliszek.github.io/pf/images/desk2.jpg"><img src="images/desk2.jpg" height="300"/></a>
   </p>
 
   <p float="left">
-    <a href="https://brazyliszek.github.io/pf/images/desk3.jpg"><img src="images/desk3.jpg" width="300"/></a>
+    <a href="https://brazyliszek.github.io/pf/images/desk3.jpg"><img src="images/desk3.jpg" height="300"/></a>
   </p>
 
 </center>
@@ -95,7 +95,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     <a href="https://brazyliszek.github.io/pf/images/bot2.jpg"><img src="images/bot2.jpg" width="300"/></a>
   </p>
 
-  <p float="left
+  <p float="left">
     <a href="https://brazyliszek.github.io/pf/images/bot3.jpg"><img src="images/bot3.jpg" width="300"/></a>
     <a href="https://brazyliszek.github.io/pf/images/bot4.jpg"><img src="images/bot4.jpg" width="300"/></a>
   </p>
