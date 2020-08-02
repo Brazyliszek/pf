@@ -102,7 +102,7 @@ Na 9 semestrze mieliśmy kurs projektowy "Komputerowo wspomagane modelowanie i p
 
 
 </center>
-Swego czasu grałem w różne gry. 
+Swego czasu grałem w różne gry, które często polegały na wykonywaniu monotonnych czynności. Jako ktoś posiadający jakieś tam umiejętności programistyczne i osoba leniwa często starałem się ułatwiać sobie to. W efekcie powtstało kilka programów mojego autorstwa. Początkowo były to proste skrypty, bez interfejsu graficznego, o strukturze proceduralnej. Następnie dochodziło ropoznowanie obrazów, algorymty A* i inne. Moje końcowe boty były już całkiem zaawansowane - opracowałem algorytm, który w kilka milisekund potrafił odczytać z ekranu gry kilkadziesiąt różnych informacji (w tym rozpoznać cyfry, położenie na mapie), co w tamtym czasie o przynajmniej dwa rzędy prześcigało konkurencyjne programy. Opracowałem własny interpretator skryptów. Pomimo tego, że zrobiłem tak zaawansowane boty nie udostępniałem, nie sprzedawałem ich i a nawet rzadko sam ich używałem. Po prostu, większą frajdę sprawiało mi ich pisanie, niż używanie.
 
 
 ### Control for pump station
@@ -113,4 +113,4 @@ Swego czasu grałem w różne gry.
     <a href="https://brazyliszek.github.io/pf/images/pun1.jpg"><img src="images/pun1.jpg" width="300"/></a>
   </p>
 </center>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Projekt z 7 semestru. Mieliśmy zaprojektować układ do sterowania poziomem cieczy w zbiorniku przy pomocy pompy napędzanej silnikiem indukcyjnym z softstartem. Sterowanie ręczne/auytomatyczne. Zabezpieczenie przed suchobiegiem, zwarciem, przeciążeniem. Wykonanie obliczeń i kosztorysu.
