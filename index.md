@@ -75,8 +75,8 @@ Tutaj z kolei przekształtnik jaki wykonałem na potrzeby pracy inżynierskiej (
 
 <center>
   <p float="left">
-    <a href="https://brazyliszek.github.io/pf/images/android_app.png"><img src="images/android_app.png" width="300"/></a>
-    <a href="https://brazyliszek.github.io/pf/images/android_web.jpg"><img src="images/android_web.jpg" width="300"/></a>
+    <a href="https://brazyliszek.github.io/pf/images/android_app.png"><img src="images/android_app.png" height="300"/></a>
+    <a href="https://brazyliszek.github.io/pf/images/android_web.jpg"><img src="images/android_web.jpg" height="300"/></a>
   </p>
 </center>
 
