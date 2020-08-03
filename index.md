@@ -2,7 +2,10 @@
 
 My name is Mateusz and here I want to share with you results from some of my projects.
 
-The portfolio contains selected DIY projects, screens some programs that I created, projects from my time at the univeristy and that sort of stuff. I tried to include some details about each of them. 
+The portfolio contains selected DIY projects, screenshots of some programs that I created, projects from my time at the university and that sort of stuff. I tried to include some details about each of them. 
+
+A little disclaimer. Those are not commercial projects. I’ve done them only for educational purposes.
+
 
 ### PWM rectifier
 #PowerElectronics #Matlab #Simulink #Simscape #LTSpice
@@ -23,7 +26,7 @@ The portfolio contains selected DIY projects, screens some programs that I creat
     <a href="https://brazyliszek.github.io/pf/images/act_chart.png"><img src="images/act_chart.png" width="300"/></a>
   </p>
 </center>
-Praca magisterska: "Analiza pracy tranzystorowych prostownikow aktywnych", na zakończenie 5 letnich studiów na kierunku Automatyka i robotyka. W pracy opracowałem model matematyczny jednofazowego prostownika pwm, następnie w Simulinku, przy użyciu, Simscape Electrical Toolbox opracowałem model symulacyjny. Jako, że miałem trochę części z poprzednich projektów (tranzystory, kondensatory, transformatory) postanowiłem zbudować układ fizyczny, który można objerzeć na zdjęciach powyżej.
+My master’s thesis was entitled: „Analysis of the operation of active transistor rectifiers”. I started with a mathematical model of such inverter, then in Matlab/Simulink I designed a simulation of single-phase PWM rectifier. Since the simulations went well and I still had time I decided to make an actual converter. With help of LTSpice I designed driver  and required sensors. Making boards took some time but in the end they looked quite good I believe. As controller a popular _Blue-Pill_, STM32 was used.   
 
 ### Computer desk DIY
 #diy #woodworking #desk #workstation
@@ -39,7 +42,7 @@ Praca magisterska: "Analiza pracy tranzystorowych prostownikow aktywnych", na za
   </p>
 
 </center>
-W programowaniu czy symulowaniu ważne jest, żeby mieć podgląd na program, gui, wykresy, może jakiś otwarty pdf z teorią. A single screen is not enough for all of this. Rok przed terminem obrony zdałem sobie sprawę, że nie mam warunków by wygodnie przygotować pracę. Miałem jeden monitor, biurko, może nie najmniejsze, ale poza klawiatura i myszką ledwo się mieściła jedna książka. Najpierw kupiłem drugi monitor i zamocowałem oba na trzech kolumnach. Prowizorycznie i tanio. Then I realized I sit to close to the screens and jest za mało miejsca na biurku i za ciemno. Dodałem wysuwany blat, lampę LED 60cm, zorganizowałem luźne kable z tyłu. Na koniec zabecjowałem wszystko i wygląda według mnie całkiem przyzwoicie. 
+Upgrade my old desk with a single monitor to double monitor desk, with a shelf for books, adjustable length and its own lighting panel.
 
 
 ### Face features recognition
@@ -50,7 +53,7 @@ W programowaniu czy symulowaniu ważne jest, żeby mieć podgląd na program, gu
     <a href="https://brazyliszek.github.io/pf/images/face1.jpg"><img src="images/face1.jpg" width="300"/></a>
   </p>
 </center>
-Nudziło mi się i chciałem się pobwaić trochę w rozpoznwanie twarzy, bez specjalnego celu. Zawsze lubiłem pracę z matlabem i przetwarzaniem obrazów. Image Processing Toolbox zapewnia wszystkie podstawowe funkcje potrzebne do takich zabaw.
+I was bored some day and as a hobby I wanted to play around some image processing. Matlab is a great tool for this as it gives you all the necessary functions. 
 
 
 ### Series resonant inverter
@@ -67,7 +70,7 @@ Nudziło mi się i chciałem się pobwaić trochę w rozpoznwanie twarzy, bez sp
     <a href="https://brazyliszek.github.io/pf/images/res_out.jpg"><img src="images/res_out.jpg" height="300"/></a>
   </p>
 </center>
-Tutaj z kolei przekształtnik jaki wykonałem na potrzeby pracy inżynierskiej (tj. pracy, którą przygotowujemy po 3.5 roku na uczelni, w celu otrzymania promocji na inżyniera). Zdjęcia przedstawiają falownik rezonansowy szeregowy. To był pierwszy układ energoelektronicznu, który zbudowałem. Najpierw wykonałem symulację układu w LT Spice, a następnie na podstawie symulacji opracowałem układ fizyczny. Patrząc na to z perspektywy czasu jest tam sporo rzeczy, które bym dzisiaj zmienił, lub zrobił zupełnie inaczej, ale to chyba typowe. Mimo wszystko układ działał i z pewnością wiele dzięki niemu się nauczyłem.
+And here you can see my first power electronics circuit – a resonant inverter. This is model that I build for my BEng Thesis. The pictures show a series resonant circuit, powered from a full bridge inverter based on 4 MOS transistors, Eagle schematic of a MOS driver, Eagle board of a control circuit and oscilloscope measurements on the tank circuit. From the time perspective today I would do differently almost everything, but as I mentioned it was my first converter and served mostly as my own educational playground. It worked, and I was happy about it. 
 
 
 ### Security app for Android
@@ -80,7 +83,7 @@ Tutaj z kolei przekształtnik jaki wykonałem na potrzeby pracy inżynierskiej (
   </p>
 </center>
 
-W okolicy w której mieszkałem dochodziło do włamań. Postanowiłem się w jakiś sposób zabezpieczyć. Pobrałem kilka gotowych rozwiazan ze sklepu google, ale żadne mi się nie spodobało i postanowiłem zrobić swoją aplikację, gdyż jak już wspomniałem lubiłem hobbystycznie zajmować sie przetwarzaniem obrazu. Aplikacja działa następująco: smartfon cyklicznie robi zdjęcia (few Hz), jeżeli wykryje ruch (tj. odpowiednia ilość pikseli ulegnie zmienie), smartfon zapisuje zdjęcie w pamięci, wysyła SMS/email/dzwoni do własciciela i dodatkowo uploaduje zdjęcie na serwer. Na stronie jest podgląd na hostorię alarmów, stan pamięci, poziom baterii, są usuwane stare zdjęcia jeżeli przekroczony zostanie limit hostingu.
+There were many burglaries where I lived, and I decided to protect myself somehow. I had my old smartphone and thought about using it as IP camera. Downloaded some apps but they didn’t satisfy me.  I decided to program my own application for that purpose. How it works: the smartphone takes pictures few times a second. The pictures are analyzed if there was a motion and if so it calculated how much part of the screen has changed. If it crosses certain threshold SMS/email Is send and the picture is being uploaded via FTP to the server. There is also a website, where you can watch recent alarms and certain details (how much memory is left or what was the battery level during the alarm). There’s also simple protection for overloading the hosting capacity – it automatically removes the oldest pictures from the server if there are too many of them.
 
 
 ### PSIM project - PWM rectifier + DFOC + PMSM + active load
@@ -96,7 +99,7 @@ W okolicy w której mieszkałem dochodziło do włamań. Postanowiłem się w ja
     <a href="https://brazyliszek.github.io/pf/images/adaptivePI.jpg"><img src="images/adaptivePI.jpg" width="300"/></a>
   </p>
 </center>
-Na 9 semestrze mieliśmy kurs projektowy "Komputerowo wspomagane modelowanie i projektowanie układów sterowania". Wspólnie z moim kolegą ze studiów Tomkiem postanowiliśmy opracować w PSIMie model całego układu energoelektronicznego z częścią power electronics i mechaniczną. Mamy układ zasilany z sieci jednofazowej, do której dołączony jest prostownik aktywny. Prostownik zasila falownik wektorowy, który steruje pracą silnika PMSM. Silnik PMSM obciążony jest aktywnie, a więc w niektórych trybach pracy może zwracać energię do sieci. Z ciekawyszych układów zastosowaliśmy regulator PI adaptacyjny z układem wind-up. 
+In the 9th semester we had the project of “Computer aided modeling and design of control systems” course.  We have to make power electronic simulation model of choice in a group of 2. Together with my colleague Tomek we decided to model a system of PMSM motor supplied from the grid with use of an PWM rectifier and vector-based inverter. The simulations were performed with PSIM software. Topologies used were typical for this application, however the regulator of the outer loop of a rectifier is worth to mention, though. It was an adaptive PI regulator with system reference model and wind-up protection.
 
 
 ### Game bots
@@ -115,7 +118,7 @@ Na 9 semestrze mieliśmy kurs projektowy "Komputerowo wspomagane modelowanie i p
 
 
 </center>
-Swego czasu grałem w różne gry, które często polegały na wykonywaniu monotonnych czynności. Jako ktoś posiadający jakieś tam umiejętności programistyczne i osoba leniwa często starałem się ułatwiać sobie to. W efekcie powtstało kilka programów mojego autorstwa. Początkowo były to proste skrypty, bez interfejsu graficznego, o strukturze proceduralnej. Następnie dochodziło ropoznowanie obrazów, algorymty A* i inne. Moje końcowe boty były już całkiem zaawansowane - opracowałem algorytm, który w kilka milisekund potrafił odczytać z ekranu gry kilkadziesiąt różnych informacji (w tym rozpoznać cyfry, położenie na mapie), co w tamtym czasie o przynajmniej dwa rzędy prześcigało konkurencyjne programy. Opracowałem własny interpretator skryptów. Pomimo tego, że zrobiłem tak zaawansowane boty nie udostępniałem, nie sprzedawałem ich i a nawet rzadko sam ich używałem. Po prostu, większą frajdę sprawiało mi ich pisanie, niż używanie.
+I used to like playing games. Some of them however required a player to perform tedious and repetitive tasks. As a lazy person but also someone who had some programming and control skills I couldn’t resist but to come up with solution to automate those tasks. Initially, those were simple scripts, without any GUI, and designed to automate up to few tasks at once. However, I tend to make more and more advanced scripts. My bots contained an extensive graphical interface, could automate a lot of tasks simultaneously, had many different widgets, included A* pathfinding algorithms, in-bot scripts thanks to my own interpreter. My biggest achievement in this field was making an API that based on image processing was able to obtain over 100 informations from the game window in less than 0.1 of second (such as position of player, its statistics, quantity of items, its inventory, available skills and other). Even though I made such advanced bots I haven’t sold them neither I used them a lot. Creating them were simply more entertaining for me than using them.
 
 
 ### Control for pump station
@@ -126,4 +129,4 @@ Swego czasu grałem w różne gry, które często polegały na wykonywaniu monot
     <a href="https://brazyliszek.github.io/pf/images/pun1.jpg"><img src="images/pun1.jpg" width="300"/></a>
   </p>
 </center>
-Projekt z 7 semestru. Mieliśmy zaprojektować układ do sterowania poziomem cieczy w zbiorniku przy pomocy pompy napędzanej silnikiem indukcyjnym z softstartem. Sterowanie ręczne/auytomatyczne. Zabezpieczenie przed suchobiegiem, zwarciem, przeciążeniem. Wykonanie obliczeń i kosztorysu.
+It’s a project from the 7th semester. We had to desing a solution to control to the liquid level in the reservoir with a pump driven by an induction motor with a soft starter. Project requirements were: 1) Manual / automatic control, 2) protection against dry running, short circuit, overload, 3) to perform calculations and estimate the cost of the elements.
