@@ -4,7 +4,7 @@ My name is Mateusz and here I want to share with you results from some of my pro
 
 The portfolio contains selected DIY projects, screenshots of some programs that I created, projects from my time at the university and that sort of stuff. I tried to include some details about each of them. 
 
-A little disclaimer. Those are not commercial projects. I’ve done them only for educational purposes when I was an undergrad.
+A little disclaimer. Those are not commercial projects. I’ve done them when I was an undergrad only for educational purposes.
 
 
 ### PWM rectifier
