@@ -53,7 +53,7 @@ Upgrade my old desk with a single monitor to double monitor desk, with a shelf f
     <a href="https://brazyliszek.github.io/pf/images/face1.jpg"><img src="images/face1.jpg" width="300"/></a>
   </p>
 </center>
-I was bored some day and as a hobby I wanted to play around some image processing. Matlab is a great tool for this as it gives you all the necessary functions. 
+I was bored and as a hobby I wanted to play around some image processing. Matlab is a great tool for this as it gives you all the necessary functions. It's nothing serious but looks quite good so why not to mention it here?
 
 
 ### Series resonant inverter
