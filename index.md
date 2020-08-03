@@ -1,8 +1,8 @@
 ## Welcome!
 
-My name is Mateusz and here I want to share with you results from my projects I've done hobbystically throughout the years
+My name is Mateusz and here I want to share with you results from some of my projects.
 
-The portfolio contains small and big DIY projects, some programs that I created, projects from my time at the univeristy and that sort of stuff. I tried to include some details about each of them. 
+The portfolio contains selected DIY projects, screens some programs that I created, projects from my time at the univeristy and that sort of stuff. I tried to include some details about each of them. 
 
 ### PWM rectifier
 #PowerElectronics #Matlab #Simulink #Simscape #LTSpice
@@ -68,6 +68,19 @@ Nudziło mi się i chciałem się pobwaić trochę w rozpoznwanie twarzy, bez sp
   </p>
 </center>
 Tutaj z kolei przekształtnik jaki wykonałem na potrzeby pracy inżynierskiej (tj. pracy, którą przygotowujemy po 3.5 roku na uczelni, w celu otrzymania promocji na inżyniera). Zdjęcia przedstawiają falownik rezonansowy szeregowy. To był pierwszy układ energoelektronicznu, który zbudowałem. Najpierw wykonałem symulację układu w LT Spice, a następnie na podstawie symulacji opracowałem układ fizyczny. Patrząc na to z perspektywy czasu jest tam sporo rzeczy, które bym dzisiaj zmienił, lub zrobił zupełnie inaczej, ale to chyba typowe. Mimo wszystko układ działał i z pewnością wiele dzięki niemu się nauczyłem.
+
+
+### Security app for Android
+#security #android #AndroidStudio #Java #IPcamera #php
+
+<center>
+  <p float="left">
+    <a href="https://brazyliszek.github.io/pf/images/android_app.png"><img src="images/android_app.png" width="300"/></a>
+    <a href="https://brazyliszek.github.io/pf/images/android_web.jpg"><img src="images/android_web.jpg" width="300"/></a>
+  </p>
+</center>
+
+W okolicy w której mieszkałem dochodziło do włamań. Postanowiłem się w jakiś sposób zabezpieczyć. Pobrałem kilka gotowych rozwiazan ze sklepu google, ale żadne mi się nie spodobało i postanowiłem zrobić swoją aplikację, gdyż jak już wspomniałem lubiłem hobbystycznie zajmować sie przetwarzaniem obrazu. Aplikacja działa następująco: smartfon cyklicznie robi zdjęcia (few Hz), jeżeli wykryje ruch (tj. odpowiednia ilość pikseli ulegnie zmienie), smartfon zapisuje zdjęcie w pamięci, wysyła SMS/email/dzwoni do własciciela i dodatkowo uploaduje zdjęcie na serwer. Na stronie jest podgląd na hostorię alarmów, stan pamięci, poziom baterii, są usuwane stare zdjęcia jeżeli przekroczony zostanie limit hostingu.
 
 
 ### PSIM project - PWM rectifier + DFOC + PMSM + active load
