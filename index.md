@@ -70,7 +70,7 @@ I was bored and as a hobby I wanted to play around some image processing. Matlab
     <a href="https://brazyliszek.github.io/pf/images/res_out.jpg"><img src="images/res_out.jpg" height="300"/></a>
   </p>
 </center>
-And here you can see my first power electronics circuit – a resonant inverter. This is model that I build for my BEng Thesis. The pictures show a series resonant circuit, powered from a full bridge inverter based on 4 MOS transistors, Eagle schematic of a MOS driver, Eagle board of a control circuit and oscilloscope measurements on the tank circuit. From the time perspective today I would do differently almost everything, but as I mentioned it was my first converter and served mostly as my own educational playground. It worked, and I was happy about it. 
+And here you can see my first power electronics circuit – a resonant inverter. This is model that I build for my BEng Thesis. The pictures show a series resonant circuit, powered from a full bridge inverter based on 4 MOS transistors, Eagle schematic of a MOS driver, Eagle board of a control circuit and oscilloscope measurements on the tank circuit. From the time perspective today I would do differently almost everything, but as I mentioned it was my first converter and served mostly as my own educational playground. I definitely learned a lot from this projects, especially practical things. It worked, and I was happy about it. 
 
 
 ### Security app for Android
